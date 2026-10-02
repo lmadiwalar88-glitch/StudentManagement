@@ -1,0 +1,9 @@
+.metadata/
+Servers/
+.settings/
+.classpath
+.project
+bin/
+target/
+*.class
+src/main/java/com/studentapp/conn/Connect.java
